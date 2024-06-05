@@ -1,4 +1,4 @@
-#This is my code inn solving LeetCode problem 1002: Find Common Characters
+# This is my code inn solving LeetCode problem 1002: Find Common Characters
 
 ```
 from typing import List
@@ -39,12 +39,12 @@ words2 = ["cool", "lock", "cook"]
 print(solution.commonChars(words2))  # Output: ['c', 'o']
 ```
 
-#Explanation of Example 1:
+# Explanation of Example 1:
 
 1. Instance Method:
 
 - 'commonChars' is an instance method, meaning it should be called on an instance of the 'Solution' class.
- - 'solution = Solution()' creates an instance of the 'Solution' class.
+- - 'solution = Solution()' creates an instance of the 'Solution' class.
 
 2. Calling the Method:
 
