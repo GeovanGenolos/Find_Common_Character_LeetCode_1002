@@ -52,7 +52,7 @@ print(solution.commonChars(words2))  # Output: ['c', 'o']
 
 This ensures that the method receives the necessary 'self' argument automatically, as well as the 'A' argument that you pass explicitly.
 
-#Explanation of Example 2:
+# Explanation of Example 2:
 For the input '["cool", "lock", "cook"]':
 
 - Initial 'common_count' from "cool": '{'c': 1, 'o': 2, 'l': 1}'
