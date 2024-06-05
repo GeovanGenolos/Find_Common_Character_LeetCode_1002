@@ -44,7 +44,7 @@ print(solution.commonChars(words2))  # Output: ['c', 'o']
 1. Instance Method:
 
 - 'commonChars' is an instance method, meaning it should be called on an instance of the 'Solution' class.
-- - 'solution = Solution()' creates an instance of the 'Solution' class.
+- 'solution = Solution()' creates an instance of the 'Solution' class.
 
 2. Calling the Method:
 
