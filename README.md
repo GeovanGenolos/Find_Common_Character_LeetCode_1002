@@ -1,4 +1,4 @@
-# This is my code inn solving LeetCode problem 1002: Find Common Characters
+# This is my code in solving LeetCode problem 1002: Find Common Characters
 
 ```
 from typing import List
